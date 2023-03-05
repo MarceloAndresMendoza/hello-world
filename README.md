@@ -10,6 +10,3 @@ I'm Marcelo Mendoza, registered nurse working on a Criticall Ill patient room on
 I'm now applying all my experience on programming on a formal Bootcamp.
 
 I work on Wordpress based websites designing templates too, admin a Moodle teaching website for a business and i've done a lot of digital optimizations on my work site, so i decided to formalize my learning as a developer.
-
----
-# This is a testing branching.
