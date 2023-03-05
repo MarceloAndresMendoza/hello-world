@@ -1,4 +1,4 @@
-#¡Hola Mundo!
+# ¡Hola Mundo!
 Soy Marcelo Mendoza, enfermero de profesión de una unidad de paciente crítico en Chile.
 Actualmente estoy aplicando toda mi experiencia anterior en programación en el Bootcamp de desarrollo web FullStack de la UDD. 
 
